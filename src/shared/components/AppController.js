@@ -1,7 +1,7 @@
 import React from "react";
 
-export default class AppController extends React.Component {  
+export default class AppController extends React.Component {
   render() {
-    return <div>Hello Isomorpher</div>;
+    return <h1>Hello Isomorphic</h1>;
   }
 }

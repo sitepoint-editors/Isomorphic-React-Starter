@@ -1,6 +1,6 @@
 var webpack = require('webpack');
 
-module.exports = {  
+module.exports = {
   devtool: 'inline-source-map',
   entry: [
     'webpack-dev-server/client?http://localhost:8081',
